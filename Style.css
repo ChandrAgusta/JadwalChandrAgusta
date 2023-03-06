@@ -1,0 +1,22 @@
+h1{
+    background-color: #198754;
+    color: rgba(240, 248, 255, 0.884);
+    font-family: 'Times New Roman', Times, serif;
+    padding-top :1rem;
+    padding-bottom: 1rem;
+}
+.kepala{
+    background-color:#8ac5a475;
+}
+
+.jumbotron{
+    padding-top: 6rem;
+    background-color: #8ac5a475;
+}
+
+#Kegiatan{
+    background-color: #8ac5a475;
+}
+
+
+
